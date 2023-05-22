@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+Hello and welcome to my GitHub page! My name is [Your Name] and I am a student at Bloomtech, currently enrolled in the Full Stack Web Development program for Software Engineering. My passion for software engineering has driven me to develop a strong skill set in both frontend and backend technologies. I have expertise in HTML, CSS, JavaScript, and React, and have also gained proficiency in Object-Oriented Programming and algorithms. I am constantly striving to learn and improve my skills in the field of software engineering. On this page, you will find a collection of my projects and contributions to the open-source community. Feel free to take a look around and don’t hesitate to reach out if you have any questions or would like to collaborate on a project.
+
+<!-- 
 **rlal2022/rlal2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
